@@ -1,0 +1,29 @@
+
+/**********************************
+ Registra vendedor    
+***********************************/
+#idDivRegistraVendedor{	position: absolute;	top: 0px;	left: 0px;	width: 1075px;	height: 590px; background-color:  #BCF5A9; padding: 0px;color: green;	font-size: 11px;	font-style: normal;	font-family: Verdana, Geneva, sans-serif;	}
+
+#idLabelTituloRegistro {	position: absolute;	top: 5px;	left: 50px;	width: 1010px;	height: 20px; 	display:block;	font-family:Tahoma, Geneva, sans-serif;	font-size:14px;font-weight:bold;color:#679b14;background-color:#cfe8a7;text-shadow:#FFF 1px 1px 1px; text-align: center;}
+
+#idLabelNombre {	position: absolute;	top: 30px;	left: 400px;	width: 100px;	height: 15px; 	}
+#idNombre {	 		position: absolute;	top: 30px;	left: 520px; width: 200px;	height: 20px;	}
+  
+#idLabelApellido { 	position: absolute;	top: 65px;	left: 400px;	width: 100px;	height: 15px;	}
+#idApellido {	  	position: absolute;	top: 65px;	left: 520px;	width: 200px;	height: 20px;	}
+
+#idLabelEdad { 	position: absolute;	top: 100px;	left: 400px;	width: 130px;	height: 15px;	}
+#idEdad {	  	position: absolute;	top: 100px;	left: 520px;	width: 200px;	height: 20px;	}
+
+#idLabelFecha { position: absolute;	top: 135px;	left: 400px;	width: 120px;	height: 15px;	}
+#idFecha {	  	position: absolute;	top: 135px;	left: 520px;	width: 200px;	height: 20px;	}
+
+#idLabelEstadoCivil { position: absolute;	top: 170px;	left: 400px;	width: 100px;	height: 15px;	}
+#idEstadoCivil {	  position: absolute;	top: 170px;	left: 520px;	width: 200px;	height: 20px;	}  
+
+#idLabelDistrito { 	position: absolute;	top: 205px;	left: 400px;	width: 100px;	height: 15px;	}
+#idDistrito {	  	position: absolute;	top: 205px;	left: 520px;	width: 200px;	height: 20px;	}
+
+#idRegistrarVendedor {	  	position: absolute;	top: 240px;	left: 400px;	width: 100px;	height: 25px;	}
+#idLimpiarVendedor {	  	position: absolute;	top: 240px;	left: 520px;	width: 100px;	height: 25px;	}
+        

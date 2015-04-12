@@ -1,0 +1,27 @@
+#idMenu ul{
+	width: 180px;
+	margin:0;
+	padding:1px;
+	border:1px solid #cfe7aa;
+}
+#idMenu li{
+	display:marker;
+	list-style:none;
+	padding-bottom:1px;
+}
+#idMenu li a{
+	display:block;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#679b14;
+	text-shadow:#FFF 1px 1px 1px;
+	text-decoration:none;
+	background-color:#cfe8a7;
+	padding:5px;
+	border-left:10px solid #a3d15a;
+}
+#idMenu li a:hover{
+	border-left:14px solid #a3d15a;
+	background-color:#c3dd9a;
+}
