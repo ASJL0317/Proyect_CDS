@@ -23,6 +23,7 @@
 	DNI<s:textfield  name="dni" />
 	Nombres<s:textfield  name="nombres" />
 	APELLIDO<s:textfield name="apellido" />
+	TELEFONO<s:textfield name="telefono" />
 	<sj:submit button="true" value="enviar"/>
 </s:form>
 
