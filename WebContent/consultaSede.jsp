@@ -10,7 +10,7 @@
 <sj:head jqueryui="true" jquerytheme="blitzer"/>
 </head>
 <body>
-<h1>Sede por Distrito:</h1>
+<h1>Sede por DISTRITO:</h1>
 <s:form action="buscaXdistrito" id="idForm" >
 	Distrito<s:select name="sede.disSede" 
 	             headerKey=" "

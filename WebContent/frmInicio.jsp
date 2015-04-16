@@ -22,6 +22,7 @@
 <s:form action="votacion">
 	DNI<s:textfield  name="dni" />
 	APELLIDO<s:textfield name="apellido" />
+	TELEFONO<s:textfield name="telefono" />
 	<sj:submit button="true" value="enviar"/>
 </s:form>
 
