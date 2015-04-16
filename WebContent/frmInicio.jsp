@@ -16,11 +16,12 @@
 </head>
 <body>
 
-<h1>Encuentra tu lugar de Votación</h1>
+<h1>Encuentra tu lugar de VotaciÃ³n</h1>
 <s:actionmessage theme="jquery"/>
 
 <s:form action="votacion">
 	DNI<s:textfield  name="dni" />
+	Nombres<s:textfield  name="nombres" />
 	<sj:submit button="true" value="enviar"/>
 </s:form>
 
